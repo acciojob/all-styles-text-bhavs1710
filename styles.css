@@ -1,2 +1,12 @@
 
 /* Your CSS Code here. */
+.header h3{
+	width:200px;
+	background-color:purple;
+	border-left-width:5px;
+	border-right-color:green;
+	font_size:20px;
+	padding:10px;
+	color:white;
+	text-decoration:underline white 2px;
+	}
